@@ -2,7 +2,6 @@
 class PassEnv < Formula
   desc "Use secrets from pass without them landing in files or agent transcripts"
   homepage "https://github.com/n8watkins/pass-env"
-  version "1.2.0"
   license "MIT"
 
   depends_on "pass"

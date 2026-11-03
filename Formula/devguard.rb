@@ -2,7 +2,6 @@
 class Devguard < Formula
   desc "Run many AI coding agents at once without running out of memory, ports or disk"
   homepage "https://github.com/n8watkins/devguard"
-  version "0.1.0"
   license "MIT"
 
   depends_on "git"
